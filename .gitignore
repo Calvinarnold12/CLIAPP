@@ -1,0 +1,13 @@
+# Logic: Ignore the secret environment variables
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Node.js dependencies 
+node_modules/
